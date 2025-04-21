@@ -21,7 +21,7 @@ presenterImage: '/recky.jpg'
 - recky(レッキー)
 - 2023/6月入会〜2024/11月卒業
 - 趣味はショッピング（服と眼鏡👓）、ゲーム（コンソール、スマホ問わず）。僕の青春は龍が如く（桐生）、ゼノブレイド（シュルク）、ペルソナシリーズです。
-- 昼食食べてる時にはもう夕食のこと考えてるぐらい、食べることが好きです。
+- 最近「No No Girls」を見て、すっかりHANAにハマっています。
 
 <!--
 reckyと申します。歴亜という名前由来のあだ名をそのまま使っています。
@@ -35,22 +35,9 @@ layout: new-section
 caption: 'https://tsundoku.tech'
 ---
 
-# デモ
+# Tsundokuの紹介
 
 ![TsundokuのOGP](https://tsundoku.tech/ogp.png)
-
----
-
-
-| 本を検索 | 読書メモを取る | 読書ログを公開 |
-|:----:|:----:|:----:|
-| 本を検索して、登録します。 | 本ごとにメモを取り、読書ログをつけます。 | 読書した本やログは公開できます。 |
-| [![Image from Gyazo](https://i.gyazo.com/1a17a29e784994d7703c24620eca2d54.gif)](https://gyazo.com/1a17a29e784994d7703c24620eca2d54)| [![Image from Gyazo](https://i.gyazo.com/238d80b466672ff5a87e0cbae4f5a7a6.gif)](https://gyazo.com/238d80b466672ff5a87e0cbae4f5a7a6)| [![Image from Gyazo](https://i.gyazo.com/3c0ed8f17b3d992d5cfb00bd780dcd9a.jpg)](https://gyazo.com/3c0ed8f17b3d992d5cfb00bd780dcd9a) |
-
-<!--
-デモがわかりづらいかもしれないので一応。
-デモで見せるので、軽く話す。
--->
 
 ---
 
@@ -67,6 +54,19 @@ caption: 'https://tsundoku.tech'
 リリースブログと同じですが、、
 FBCの日報機能からインスパイアされたことに触れてもいいかも。
 内部要因的にも、外部要因的にも読書を促すいいサービスになると思った。
+-->
+
+---
+
+
+| 本を検索 | 読書メモを取る | 読書ログを公開 |
+|:----:|:----:|:----:|
+| 本を検索して、登録します。 | 本ごとにメモを取り、読書ログをつけます。 | 読書した本やログは公開できます。 |
+| [![Image from Gyazo](https://i.gyazo.com/1a17a29e784994d7703c24620eca2d54.gif)](https://gyazo.com/1a17a29e784994d7703c24620eca2d54)| [![Image from Gyazo](https://i.gyazo.com/238d80b466672ff5a87e0cbae4f5a7a6.gif)](https://gyazo.com/238d80b466672ff5a87e0cbae4f5a7a6)| [![Image from Gyazo](https://i.gyazo.com/3c0ed8f17b3d992d5cfb00bd780dcd9a.jpg)](https://gyazo.com/3c0ed8f17b3d992d5cfb00bd780dcd9a) |
+
+<!--
+デモがわかりづらいかもしれないので一応。
+デモで見せるので、軽く話す。
 -->
 
 ---
@@ -97,36 +97,6 @@ layout: two-cols
 フロントエンドは満遍なく触れる？
 -->
 
----
-layout: intro
----
-
-# うれしかったこと
-
----
-layout: new-section
----
-
-# ユーザーの方からのIssue起票があった
-
-![Issueの画像](/issue.png)
-
-<!--
-ただ実装は結構難しい。のでまだ着手できていない。
--->
-
----
-layout: new-section
----
-
-# リリースブログへのいいねが結構多かった
-
-![Zennの記事の画像](/zenn.png)
-
-<!--
-ZennはFBCの方はあまり登録していない？ので、いいねは自分が見た限り10件もなかった。（これは仕方ない。わざわざ登録してくれてまでいいねしてくれた方もいる。感謝を述べる。）
-ので、それ以外は基本知らない方。Zennでたまたま見ていいねしてくれた方がほとんど。
--->
 
 ---
 layout: text-image
@@ -165,7 +135,7 @@ layout: intro
 
 # 最後に
 
-この1年半、FBCの方々の支えがあったからこそ卒業することができました。<br>（ゴールではなく、一つの節目ではありますが）<br>
+卒業までの1年半、FBCの方々の支えがあったからこそ卒業することができました。<br>（ゴールではなく、一つの節目ではありますが）<br>
 本当にありがとうございました。<br>
 引き続きよろしくお願いいたします。
 
